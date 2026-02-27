@@ -1,16 +1,65 @@
 name,cutoff_rank,fees,location,course,exam_type,type,placement_rate
 Indian Institute of Technology Bombay,1,800000,Maharashtra,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,98
-Indian Institute of Technology Delhi,5,800000,Delhi,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,97
-Indian Institute of Technology Madras,3,800000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,97
-Indian Institute of Technology Kanpur,10,800000,Uttar Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,96
 Indian Institute of Technology Kharagpur,2,800000,West Bengal,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,96
+Indian Institute of Technology Madras,3,800000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,97
+Indian Institute of Technology Delhi,5,800000,Delhi,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,97
+Indian Institute of Technology Kanpur,10,800000,Uttar Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,96
+Indian Institute of Technology Roorkee,15,700000,Uttarakhand,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,94
+Indian Institute of Technology Guwahati,20,600000,Assam,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,91
+Indian Institute of Technology Hyderabad,30,600000,Telangana,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,90
+Indian Institute of Technology BHU Varanasi,25,600000,Uttar Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,92
+Indian Institute of Technology (ISM) Dhanbad,35,500000,Jharkhand,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,88
+Indian Institute of Technology Indore,40,500000,Madhya Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,87
+Indian Institute of Technology Mandi,45,500000,Himachal Pradesh,Computer Science;Electronics;Civil;Mechanical,JEE Main,Government,85
+Indian Institute of Technology Patna,50,450000,Bihar,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,84
+Indian Institute of Technology Rajasthan,55,450000,Rajasthan,Computer Science;Electronics;Civil;Mechanical,JEE Main,Government,83
+Indian Institute of Technology Tirupati,60,450000,Andhra Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,82
+Indian Institute of Technology Jodhpur,65,450000,Rajasthan,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,81
+Indian Institute of Technology Palakkad,70,450000,Kerala,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,80
+Indian Institute of Technology Goa,75,450000,Goa,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,79
+Indian Institute of Technology Jammu,80,400000,Jammu & Kashmir,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,78
 National Institute of Technology Trichy,50,400000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,92
 National Institute of Technology Surathkal,60,400000,Karnataka,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,91
 National Institute of Technology Warangal,70,400000,Telangana,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,90
-National Institute of Technology Hyderabad,80,400000,Telangana,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,89
-JNTU College of Engineering Hyderabad,200,300000,Telangana,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,85
-Osmania University,150,200000,Telangana,Computer Science;Electronics;Mechanical,JEE Main,Government,80
-Institute of Aeronautical Engineering,1500,900000,Telangana,Computer Science;Electronics;Mechanical,JEE Main,Private,82
+National Institute of Technology Rourkee,45,400000,Uttarakhand,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,92
+National Institute of Technology Calicut,85,350000,Kerala,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,87
+National Institute of Technology Durgapur,90,350000,West Bengal,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,86
+National Institute of Technology Hamirpur,100,300000,Himachal Pradesh,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,84
+National Institute of Technology Jalandhar,105,300000,Punjab,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,83
+National Institute of Technology Jamshedpur,110,300000,Jharkhand,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,82
+National Institute of Technology Kurukshetra,115,300000,Haryana,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,81
+National Institute of Technology Nagpur,120,300000,Maharashtra,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,80
+National Institute of Technology Patna,125,300000,Bihar,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,79
+National Institute of Technology Raipur,130,300000,Chhattisgarh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,78
+National Institute of Technology Silchar,135,300000,Assam,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,77
+National Institute of Technology Srinagar,140,250000,Jammu & Kashmir,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,76
+National Institute of Technology Allahabad,145,300000,Uttar Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,75
+National Institute of Technology Bhopal,150,300000,Madhya Pradesh,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,74
+National Institute of Technology Jaipur,155,300000,Rajasthan,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,73
+National Institute of Technology Goa,160,250000,Goa,Computer Science;Electronics;Mechanical,JEE Main,Government,72
+National Institute of Technology Uttarakhand,165,250000,Uttarakhand,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,71
+National Institute of Technology Puducherry,170,250000,Puducherry,Computer Science;Electronics;Mechanical;Civil,JEE Main,Government,70
+Indian Institute of Information Technology Hyderabad,50,700000,Telangana,Computer Science;Electronics,JEE Main,Government,94
+Indian Institute of Information Technology Delhi,60,800000,Delhi,Computer Science;Electronics,JEE Main,Government,93
+Indian Institute of Information Technology Bangalore,65,750000,Karnataka,Computer Science;Electronics,JEE Main,Government,92
+Indian Institute of Information Technology Allahabad,75,600000,Uttar Pradesh,Computer Science;Electronics;Mechanical,JEE Main,Government,90
+Indian Institute of Information Technology Pune,85,650000,Maharashtra,Computer Science;Electronics,JEE Main,Government,88
+Indian Institute of Information Technology Lucknow,90,550000,Uttar Pradesh,Computer Science;Electronics,JEE Main,Government,87
+Indian Institute of Information Technology Guwahati,95,500000,Assam,Computer Science;Electronics,JEE Main,Government,86
+Indian Institute of Information Technology Sri City,100,500000,Andhra Pradesh,Computer Science;Electronics,JEE Main,Government,85
+Indian Institute of Information Technology Bhubaneswar,105,500000,Odisha,Computer Science;Electronics,JEE Main,Government,84
+Indian Institute of Information Technology Vadodara,110,500000,Gujarat,Computer Science;Electronics,JEE Main,Government,83
+Indian Institute of Information Technology Nagpur,115,450000,Maharashtra,Computer Science;Electronics,JEE Main,Government,82
+Indian Institute of Information Technology Gwalior,120,450000,Madhya Pradesh,Computer Science;Electronics,JEE Main,Government,81
+Indian Institute of Information Technology Jabalpur,125,450000,Madhya Pradesh,Computer Science;Electronics,JEE Main,Government,80
+Indian Institute of Information Technology Ranchi,130,400000,Jharkhand,Computer Science;Electronics,JEE Main,Government,79
+Indian Institute of Information Technology Kurnool,135,400000,Andhra Pradesh,Computer Science;Electronics,JEE Main,Government,78
+Indian Institute of Information Technology Sonepat,140,400000,Haryana,Computer Science;Electronics,JEE Main,Government,77
+Indian Institute of Information Technology Una,145,350000,Himachal Pradesh,Computer Science;Electronics,JEE Main,Government,76
+Indian Institute of Information Technology Agartala,150,350000,Tripura,Computer Science;Electronics,JEE Main,Government,75
+Indian Institute of Information Technology Kalyani,155,350000,West Bengal,Computer Science;Electronics,JEE Main,Government,74
+Indian Institute of Information Technology Trichy,160,400000,Tamil Nadu,Computer Science;Electronics,JEE Main,Government,73
+Indian Institute of Information Technology Visakhapatnam,165,400000,Andhra Pradesh,Computer Science;Electronics,JEE Main,Government,72
 Vellore Institute of Technology,9000,1400000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Private,92
 SRM Institute of Science and Technology,10000,1200000,Tamil Nadu,Computer Science;Electronics;Electrical,JEE Main,Private,88
 Manipal Institute of Technology,8000,1500000,Karnataka,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Private,93
@@ -25,13 +74,14 @@ Osmania Medical College,200,20000,Telangana,Medical Studies,NEET,Government,88
 Saveetha Medical College,800,1500000,Tamil Nadu,Medical Studies,NEET,Private,85
 Bangalore Medical College,120,25000,Karnataka,Medical Studies,NEET,Government,92
 Kasturba Medical College,600,800000,Karnataka,Medical Studies,NEET,Private,90
+Institute of Aeronautical Engineering,1500,900000,Telangana,Computer Science;Electronics;Mechanical,JEE Main,Private,82
 CMR University,1200,1200000,Karnataka,Computer Science;Electronics,JEE Main,Private,84
 RV College of Engineering,800,900000,Karnataka,Computer Science;Electronics,JEE Main,Private,85
 Presidency University,1500,700000,Karnataka,Computer Science;Electronics,JEE Main,Private,83
-IIIT Hyderabad,50,700000,Telangana,Computer Science;Electronics,JEE Main,Government,94
-IIIT Delhi,60,800000,Delhi,Computer Science;Electronics,JEE Main,Government,93
-Netaji Subhas University of Technology,150,150000,Delhi,Computer Science;Electronics;Electrical,JEE Main,Government,88
-Delhi Technological University,200,200000,Delhi,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,87
+BIT Mesra,3000,700000,Jharkhand,Computer Science;Electronics;Electrical,JEE Main,Private,84
 Amrita Vishwa Vidyapeetham,12000,1100000,Tamil Nadu,Computer Science;Electronics;Electrical,JEE Main,Private,85
 Christ University,2000,800000,Karnataka,Computer Science;Electronics,JEE Main,Private,82
-BIT Mesra,3000,700000,Jharkhand,Computer Science;Electronics;Electrical,JEE Main,Private,84
+JNTU College of Engineering Hyderabad,200,300000,Telangana,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,85
+Osmania University,150,200000,Telangana,Computer Science;Electronics;Mechanical,JEE Main,Government,80
+Netaji Subhas University of Technology,150,150000,Delhi,Computer Science;Electronics;Electrical,JEE Main,Government,88
+Delhi Technological University,200,200000,Delhi,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,87
