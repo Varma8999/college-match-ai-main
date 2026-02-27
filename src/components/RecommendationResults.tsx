@@ -18,7 +18,15 @@ const RecommendationResults = ({ colleges }: RecommendationResultsProps) => {
   const [modalOpen, setModalOpen] = useState(false);
   const [compareIds, setCompareIds] = useState<string[]>([]);
   const [showComparison, setShowComparison] = useState(false);
-  const [focusedCollege, setFocusedCollege] = useState<College>(colleges[0]);
+  const [focusedCollege, setFocusedCollege] = useState<College | null>(colleges && colleges.length > 0 ? colleges[0] : null);
+
+  if (!colleges || colleges.length === 0) {
+    return (
+      <div className="text-center py-12">
+        <p className="text-muted-foreground text-lg">No colleges to display</p>
+      </div>
+    );
+  }
 
   const toggleCompare = (id: string) => {
     setCompareIds((prev) => {
@@ -105,7 +113,7 @@ const RecommendationResults = ({ colleges }: RecommendationResultsProps) => {
           {/* AI Insights sidebar */}
           <div className="space-y-4">
             <div className="sticky top-6">
-              <AIInsightsPanel college={focusedCollege} />
+              {focusedCollege && <AIInsightsPanel college={focusedCollege} />}
               <div className="mt-4 flex flex-wrap gap-2">
                 {colleges.map((c) => (
                   <button

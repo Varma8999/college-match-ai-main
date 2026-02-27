@@ -1,0 +1,37 @@
+name,cutoff_rank,fees,location,course,exam_type,type,placement_rate
+Indian Institute of Technology Bombay,1,800000,Maharashtra,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,98
+Indian Institute of Technology Delhi,5,800000,Delhi,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,97
+Indian Institute of Technology Madras,3,800000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,97
+Indian Institute of Technology Kanpur,10,800000,Uttar Pradesh,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,96
+Indian Institute of Technology Kharagpur,2,800000,West Bengal,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,96
+National Institute of Technology Trichy,50,400000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,92
+National Institute of Technology Surathkal,60,400000,Karnataka,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,91
+National Institute of Technology Warangal,70,400000,Telangana,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,90
+National Institute of Technology Hyderabad,80,400000,Telangana,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,89
+JNTU College of Engineering Hyderabad,200,300000,Telangana,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Government,85
+Osmania University,150,200000,Telangana,Computer Science;Electronics;Mechanical,JEE Main,Government,80
+Institute of Aeronautical Engineering,1500,900000,Telangana,Computer Science;Electronics;Mechanical,JEE Main,Private,82
+Vellore Institute of Technology,9000,1400000,Tamil Nadu,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Private,92
+SRM Institute of Science and Technology,10000,1200000,Tamil Nadu,Computer Science;Electronics;Electrical,JEE Main,Private,88
+Manipal Institute of Technology,8000,1500000,Karnataka,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Private,93
+BITS Pilani Hyderabad,5000,1800000,Telangana,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Private,95
+BITS Pilani Dubai,6000,2500000,Dubai,Computer Science;Electronics,JEE Main,Private,94
+JSS Academy of Technical Education,700,800000,Karnataka,Computer Science;Electronics;Electrical,JEE Main,Private,87
+Ramaiah Institute of Technology,600,750000,Karnataka,Computer Science;Electronics;Electrical;Mechanical,JEE Main,Private,86
+All India Institute of Medical Sciences Delhi,100,1000,Delhi,Medical Studies,NEET,Government,95
+Christian Medical College Vellore,500,500000,Tamil Nadu,Medical Studies,NEET,Private,92
+Andhra Medical College,150,15000,Andhra Pradesh,Medical Studies,NEET,Government,90
+Osmania Medical College,200,20000,Telangana,Medical Studies,NEET,Government,88
+Saveetha Medical College,800,1500000,Tamil Nadu,Medical Studies,NEET,Private,85
+Bangalore Medical College,120,25000,Karnataka,Medical Studies,NEET,Government,92
+Kasturba Medical College,600,800000,Karnataka,Medical Studies,NEET,Private,90
+CMR University,1200,1200000,Karnataka,Computer Science;Electronics,JEE Main,Private,84
+RV College of Engineering,800,900000,Karnataka,Computer Science;Electronics,JEE Main,Private,85
+Presidency University,1500,700000,Karnataka,Computer Science;Electronics,JEE Main,Private,83
+IIIT Hyderabad,50,700000,Telangana,Computer Science;Electronics,JEE Main,Government,94
+IIIT Delhi,60,800000,Delhi,Computer Science;Electronics,JEE Main,Government,93
+Netaji Subhas University of Technology,150,150000,Delhi,Computer Science;Electronics;Electrical,JEE Main,Government,88
+Delhi Technological University,200,200000,Delhi,Computer Science;Electronics;Electrical;Civil,JEE Main,Government,87
+Amrita Vishwa Vidyapeetham,12000,1100000,Tamil Nadu,Computer Science;Electronics;Electrical,JEE Main,Private,85
+Christ University,2000,800000,Karnataka,Computer Science;Electronics,JEE Main,Private,82
+BIT Mesra,3000,700000,Jharkhand,Computer Science;Electronics;Electrical,JEE Main,Private,84
