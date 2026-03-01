@@ -17,4 +17,26 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks(id) {
+          // Vendor splits
+          if (id.includes("node_modules")) {
+            if (id.includes("react")) {
+              return "vendor-react";
+            }
+            if (id.includes("radix-ui") || id.includes("@radix-ui")) {
+              return "vendor-radix";
+            }
+            if (id.includes("sonner") || id.includes("framer-motion")) {
+              return "vendor-ui";
+            }
+            return "vendor-other";
+          }
+        },
+      },
+    },
+    chunkSizeWarningLimit: 1000,
+  },
 }));
